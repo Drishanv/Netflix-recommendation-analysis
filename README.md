@@ -31,13 +31,10 @@ A content-based recommendation engine built using the **Netflix Movies & TV Show
 
 ## ⚙️ Libraries Used
 
-pandas
-numpy
-scikit-learn
-matplotlib
-
----
-
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
 
 ---
 
